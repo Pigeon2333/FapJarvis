@@ -1,0 +1,8 @@
+name: FapJarvis
+main: fap.pigeon.FapJarvis.FapJarvisMain
+version: "1.1.0"
+author: MC开发者
+api: ["1.0.0"]
+description: 贾维斯助手 - 活动临时插件
+softdepend:
+  - FapSound
